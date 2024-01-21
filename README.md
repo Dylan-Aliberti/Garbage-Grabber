@@ -9,4 +9,4 @@ Within the Garbage Grabber, the python files can be run from the Raspberry Pi. H
 
 The capacitive measurement is not a simple Grove module, but a whole Circuit on its own, driven by an Arduino. The capacitive measurement was based on the following Instructables: https://www.instructables.com/Touche-for-Arduino-Advanced-touch-sensing/ . The Arduino code in the Garbage Grabber repository is a modified version of the corresponding code from the Instructable: https://github.com/Illutron/AdvancedTouchSensing . In the Garbage Grabber, the Arduino was connected to the Raspberry Pi via USB, so that the capacitive data can be further processed in the Python files mentioned above.
 
-Link to the report: Coming soon!
+The report can be found in the main folder.
